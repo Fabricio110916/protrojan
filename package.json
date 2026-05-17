@@ -1,0 +1,5 @@
+{
+  "name": "edge-proxy",
+  "private": true,
+  "type": "module"
+}
